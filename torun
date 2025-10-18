@@ -1,0 +1,8 @@
+run stockapp.java
+>mysql
+USE stockdb;
+SHOW TABLES;
+SELECT * FROM stocks;
+
+run index.html in browser
+>
